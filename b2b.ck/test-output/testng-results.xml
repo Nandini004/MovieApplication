@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89128" started-at="2016-06-17T06:28:49Z" finished-at="2016-06-17T06:30:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89128" started-at="2016-06-17T06:28:49Z" finished-at="2016-06-17T06:30:18Z">
+      <class name="Example.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Example.NewTest@9629756]" name="beforeTest" is-config="true" duration-ms="10611" started-at="2016-06-17T11:58:49Z" finished-at="2016-06-17T11:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Example.NewTest@9629756]" name="login" duration-ms="28001" started-at="2016-06-17T11:59:00Z" finished-at="2016-06-17T11:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:Example.NewTest@9629756]" name="HomePage" duration-ms="49960" started-at="2016-06-17T11:59:28Z" finished-at="2016-06-17T12:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Example.NewTest@9629756]" name="afterTest" is-config="true" duration-ms="541" started-at="2016-06-17T12:00:18Z" finished-at="2016-06-17T12:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Example.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
